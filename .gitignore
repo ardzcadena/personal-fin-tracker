@@ -1,1 +1,7 @@
 .venv
+*.xlsx
+*.csv
+__pycache__
+*.pyc
+*.pkl
+*.pyd
